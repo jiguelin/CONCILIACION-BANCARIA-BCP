@@ -1,0 +1,15 @@
+# Datos sensibles — NUNCA subir estados de cuenta ni Excel reales
+   *.pdf
+   *.xlsx
+   *.xlsm
+   ejemplo_salida*.xlsx
+
+   # Reglas locales (opcional: puedes versionarlas si quieres)
+   reglas_conciliacion.json
+
+   # Python
+   __pycache__/
+   *.pyc
+   .venv/
+   venv/
+   .DS_Store
